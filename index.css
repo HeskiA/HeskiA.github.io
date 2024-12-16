@@ -1,0 +1,26 @@
+#title{
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#jumbotron{
+    background-color: #1464b4;
+    outline: solid 1px rgb(146, 129, 129);
+}
+
+#btn{
+    background-color: #cfe2ff;
+    color: black;
+}
+
+#btn:hover{
+    background-color: #1464b479;
+    color: white;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
